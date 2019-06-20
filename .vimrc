@@ -11,6 +11,7 @@ Plugin 'VundleVim/Vundle.vim'
 " other plugins should be inserted here
 Plugin 'fatih/vim-go'
 Plugin 'rust-lang/rust.vim'
+Plugin 'vim-syntastic/syntastic.git'
 Plugin 'arcticicestudio/nord-vim'
 
 " All of your Plugins must be added before the following line
